@@ -3,6 +3,8 @@ This repo contains some of homeworks tasks given in 2019-2020 Functional Program
 Conditions :
 
 1. Fun With Digits
+
+
  #lang racket
 
 ; Искаме да дефинираме следните имена: one, two, three, ..., nine, plus, minus, times, div,
@@ -13,6 +15,8 @@ Conditions :
 ; (eight (minus (four))) -> 4
 
 2.Prefixes 
+
+
 ; Искаме да намерим всички префикси на даден списък
 ; Например за '(1 2 3), това са '(), '(1), '(1 2) и '(1 2 3)
 
